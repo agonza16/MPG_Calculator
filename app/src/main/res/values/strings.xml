@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020MPG</string>
+    <string name="message1">How many miles did you travel?</string>
+    <string name="message2">How many gallons did you buy?</string>
+    <string name="button">GET MPG</string>
+    <string name="car">corolla image</string>
+    <string name="errorMessage">Error occurred, please make sure both boxes are not empty</string>
+    <string name="hi">HI!</string>
+</resources>
